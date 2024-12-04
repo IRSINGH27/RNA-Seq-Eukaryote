@@ -7,7 +7,7 @@ This repository contains the scripts for running DGE and pathway anaylsis for eu
 
 |Env|Script|
 |---|---|
-|codingEnv| genematrix_only_ref.py (only required for pandas)|
+|codingEnv| genematrix_only_ref.py (only required for pandas package)|
 |rnaSeqEnv| hisat2Align_job.sh, sam2bamSort_job.sh|
 |stringtieEnv| cTabFile_job.sh, denovoTranscript_job.sh, prepDE_job.sh|
 
